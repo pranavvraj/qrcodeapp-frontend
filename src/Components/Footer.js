@@ -28,7 +28,7 @@ const Footer = () => {
           <button>Indonesian</button>
           <button>Arabic</button>
         </div>
-        <img classname="foot-logo" src={logo} alt="" />
+        <img className="foot-logo" src={logo} alt="" />
         <div className="socials">
           <a href="www.facebook.com">
             <FacebookIcon />

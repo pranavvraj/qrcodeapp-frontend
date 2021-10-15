@@ -9,31 +9,31 @@ const Types = () => {
         <h4>We provide the following services</h4>
       </div>
       <div className="types-cards">
-        <a href="">
+        <a href="http://qrpro.codes">
           <Cards />
         </a>
-        <a href="">
+        <a href="http://qrpro.codes">
           <Cards />
         </a>
-        <a href="">
+        <a href="http://qrpro.codes">
           <Cards />
         </a>
-        <a href="">
+        <a href="http://qrpro.codes">
           <Cards />
         </a>
-        <a href="">
+        <a href="http://qrpro.codes">
           <Cards />
         </a>
-        <a href="">
+        <a href="http://qrpro.codes">
           <Cards />
         </a>
-        <a href="">
+        <a href="http://qrpro.codes">
           <Cards />
         </a>
-        <a href="">
+        <a href="http://qrpro.codes">
           <Cards />
         </a>
-        <a href="">
+        <a href="http://qrpro.codes">
           <Cards />
         </a>
       </div>
