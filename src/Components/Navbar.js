@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "../App.css";
 import logo from "../assets/qrlogotrans.png";
+import Drawer from "./Drawer";
 
 const Navbar = () => {
   const [value, setValue] = useState("");
@@ -32,6 +33,9 @@ const Navbar = () => {
           <div className="navbtns">
             <button className="login">Log in</button>
             <button className="signup">Sign Up</button>
+          </div>
+          <div className="drawer">
+            <Drawer />
           </div>
         </div>
       </div>
