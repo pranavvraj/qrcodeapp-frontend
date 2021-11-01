@@ -34,6 +34,7 @@ const Navbar = () => {
             <button className="login">Log in</button>
             <button className="signup">Sign Up</button>
           </div>
+
           <div className="drawer">
             <Drawer />
           </div>
